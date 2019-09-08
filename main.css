@@ -25,3 +25,8 @@ body {
         font-weight: bold;
         text-decoration: underline;
         }
+        /* Navigation */
+nav ul li {
+	border: 2px solid purple;
+	display: inline; /* This makes the navigation list items display NEXT TO each other */
+}
